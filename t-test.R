@@ -1,4 +1,4 @@
-#Tutorial 4
+#t-test
 install.packages("BSDA")
 library(BSDA)
 #Question 1
