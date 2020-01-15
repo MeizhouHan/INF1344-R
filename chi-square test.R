@@ -1,4 +1,4 @@
-##tutorial 5
+##chi-square test
 
 ?mtcars
 #vs Engine (0=V-shaped, 1= straight)
