@@ -1,8 +1,8 @@
-#### R Tutorial 1: Describing variable distributions
+####Describing variable distributions
 
 ## Check your working directory
 getwd()
-setwd("/Documents/Deena/ischool /Courses/R stats Jia INF 1344/datasets")
+##setwd("/Documents/Deena/ischool /Courses/R stats Jia INF 1344/datasets")
 ## Another way to set your working directory is to navigate to it from the files tab on the right side pane then setting it as your working directory
 
 ##Example 1
