@@ -1,4 +1,3 @@
-#Tutorial 8
 #Question 1
 ###Import the data
 drugs_data=read.table("http://personality-project.org/R/datasets/R.appendix1.data",header=T)   #read online data into a table 
