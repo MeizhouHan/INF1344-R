@@ -1,4 +1,3 @@
-##tutorial 7
 #Two-sample means T-Test (Independent samples)
 ?mtcars
 t.test(mtcars$mpg~mtcars$am)       ## DV first then IV,am&pm are in the same column, so we need to split them by using ~
