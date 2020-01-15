@@ -1,4 +1,3 @@
-### Tutorial 9
 
 ##Linear regression 
 CCHS <- read.csv("CCHS2012_Shortened.csv")
